@@ -1,3 +1,4 @@
+/* first program */
 public class FirstProgram
 
 {
